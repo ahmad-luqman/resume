@@ -2,4 +2,4 @@ compile:
 	texi2pdf resume.tex
 
 clean:
-	rm resume.aux resume.log resume.out resume.pdf 
+	rm resume.aux resume.log resume.out resume.pdf  resume.sync*
